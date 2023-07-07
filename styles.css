@@ -23,4 +23,15 @@ div{
     border-bottom: 15px solid black; 
     background-color: chocolate;  
     box-shadow: 10px 10px 30px;
+    
+}
+.img {
+    border: 3px solid black;
+    align-content: center;
+    border-radius: 150px;
+    box-shadow:  10px 10px 30px;
+    align-self: center;
+}
+.mrgins {
+    margin-top: 30px;
 }
