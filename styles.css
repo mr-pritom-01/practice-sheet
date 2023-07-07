@@ -1,6 +1,12 @@
 body {
     background-color: powderblue;
-    margin:50px
+    margin:0px; 
+}
+header {
+    text-align: center;
+}
+main {
+    display: flex;
 }
 h3 {
     background-color: khaki;
